@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 .env.secret
 dist.zip
+
+# local certs
+certs/
+*.pem
