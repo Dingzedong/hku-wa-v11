@@ -1,0 +1,34 @@
+name,x_tile,y_tile,w_tiles,h_tiles,orig_w,orig_h
+mtr_gate_big.png,0,0,13,7,404,214
+mtr_sign_big.png,13,0,13,5,404,150
+bench_big.png,26,0,6,3,174,80
+table_set_big.png,32,0,7,6,206,176
+notice_board_big.png,39,0,8,7,240,211
+tree_big.png,47,0,4,5,112,148
+building_jockeyclub.png,51,0,9,7,278,218
+building_chiwah.png,60,0,9,7,278,218
+red_wall_landmark.png,69,0,17,9,538,284
+office_desk_big.png,86,0,9,6,278,186
+office_chair_green.png,0,9,5,5,147,150
+sofa_blue.png,5,9,8,5,246,154
+potted_plant.png,13,9,3,4,80,116
+hku_crest.png,16,9,5,4,160,108
+bush_planter_long.png,21,9,11,4,326,128
+red_brick_plain.png,32,9,8,7,256,216
+red_brick_grass.png,40,9,8,7,256,215
+red_brick_capped.png,48,9,8,6,256,165
+block1.png,56,9,3,2,96,64
+block2.png,59,9,3,2,96,64
+block3.png,62,9,3,2,96,64
+ChatGPT Image 2025年12月28日 19_59_32.png,0,16,48,32,1536,1024
+ChatGPT Image 2025年12月29日 20_39_42.png,48,16,48,32,1536,1024
+hku_stall_vendor_pixel_192.png,0,48,6,4,192,119
+hku_stall_books_pixel_192_v2.png,6,48,6,4,192,124
+hku_planter_bush_topdown_pixel_192.png,12,48,6,3,192,90
+ChatGPT Image 2025年12月31日 21_12_56.png,18,48,48,32,1536,1024
+ChatGPT Image 2026年1月1日 00_57_12.png,0,80,32,32,1024,1024
+ChatGPT Image 2026年1月1日 01_09_36.png,32,80,32,32,1024,1024
+hku_souvenir_shelf_256x192.png,64,80,8,6,256,192
+checkout_counter_cutout_256x192.png,72,80,8,6,256,192
+starbucks_bar_192x192_clean.png,80,80,6,6,192,192
+hku_long_shelf_sprite_256x192_fit.png,86,80,8,6,256,192

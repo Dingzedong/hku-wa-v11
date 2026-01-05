@@ -1,0 +1,13 @@
+{
+  "type": "tileset",
+  "name": "hku_objects_sheet",
+  "tilewidth": 32,
+  "tileheight": 32,
+  "spacing": 0,
+  "margin": 0,
+  "columns": 96,
+  "tilecount": 10752,
+  "image": "hku_objects_sheet.png",
+  "imagewidth": 3072,
+  "imageheight": 3584
+}

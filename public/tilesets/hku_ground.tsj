@@ -1,0 +1,24 @@
+{ "columns":8,
+ "image":"..\/tiles\/ground_atlas_256.png",
+ "imageheight":256,
+ "imagewidth":256,
+ "margin":0,
+ "name":"HKU_Ground",
+ "spacing":0,
+ "tilecount":64,
+ "tiledversion":"1.11.2",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":3,
+         "properties":[
+                {
+                 "name":"collides = true",
+                 "type":"bool",
+                 "value":true
+                }]
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

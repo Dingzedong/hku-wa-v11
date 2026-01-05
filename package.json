@@ -16,6 +16,7 @@
     "@workadventure/iframe-api-typings": "^1.26.10",
     "@workadventure/upload-maps": "^1.7.4",
     "dotenv": "^16.3.1",
+    "free-tex-packer-cli": "^0.3.0",
     "typescript": "^5.9.2",
     "vite": "^4.5.3",
     "wa-map-optimizer-vite": "^1.1.31"
